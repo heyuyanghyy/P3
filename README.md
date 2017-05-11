@@ -1,8 +1,6 @@
 
 ## An augmentation based deep neural network approach to learn human driving behavior
 
-### Vivek Yadav, PhD
-
 This jupyter notebook presents my submission for project 3: Behavior cloning for fulfilment of Udacity's self-driving car nanodegree. I have also made a [medium post](https://medium.com/@vivek.yadav/using-augmentation-to-mimic-human-driving-496b569760a9#.z4u3clepp) with more detailed simulation results. This code presents the code for the project.
 
 ### File structure:
